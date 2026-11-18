@@ -1,0 +1,252 @@
+[
+  {
+    "Q": "What is the context window size of GPT-3?",
+    "A": "The World Warrickeditionally, as well as well as well as well-related to the first-based on the same-thesis a few years ago, and itsy, the same-to beaming it washeritage.",
+    "Expected": "GPT-3 has a context window size of 2,048 tokens."
+  },
+  {
+    "Q": "Explain what is a transformer architecture.",
+    "A": "A-based on the same-up to be able to bearer, as well-the only a few years agoing the same-to beacross the first classically, and the same-likewise, as well-in the same-based on the same-in the same-to be-therapid the last yearning the same- the same-like the following the following the same-a.",
+    "Expected": "The transformer architecture is a neural network based on a deep learning model that was introduced in 2017, used in natural language processing (NLP) systems."
+  },
+  {
+    "Q": "Define what is a generative pre-trained transformer (GPT).",
+    "A": "A.",
+    "Expected": "A generative pre-trained transformer is a type of generative large language model that is pre-trained with an enormous and diverse text corpus in datasets, followed by discriminative fine-tuning to focus on a specific task."
+  },
+  {
+    "Q": "Which sources comprise the weighted pre-training dataset for GPT-3?",
+    "A": "The first-related to beleague of course of the same-based on the other thanking up until now, the same-based on the same-a few years agoing the same-likewise, the following the same-to be able to get-in the same-thesis, as well as well as well as well as well as well as well-the last yearning the world-up to behem.",
+    "Expected": "The sources are Common Crawl (60%), WebText2 (22%), Books1 (8%), Books2 (8%), and Wikipedia (3%)."
+  },
+  {
+    "Q": "List the three main classes of language modelling tasks discussed in the context of transformers?",
+    "A": "Language Arts and the same-to the same-up to the first classically, the same- the same-the following the same-based on the same-like the same-related to beaming the same- the same-in the same-type of course of the same-s, and the most likely to bearer of the other thanking of course of course of course of course of course of course of the same-to the following the previous yearning the world's and itsy, and I.",
+    "Expected": "The three main classes are masked, autoregressive, and prefixLM tasks."
+  },
+  {
+    "Q": "What is knowledge distillation in the context of transformer models?",
+    "A": "Knowledge of course of the following the same-likewise, the same-to the first-related to be a few days, as well as well-in the most likely to behem, and the same-the same-like the same-based on the same-up to the world-to be able to be a few years ago, and the same-based on the \"pilot, the same-therapidleads.",
+    "Expected": "Knowledge distillation is a method for training a smaller student model to reproduce the output behavior of a larger teacher model, which can lower computational and memory requirements while keeping most of the teacher model's performance."
+  },
+  {
+    "Q": "What is GPT-4 and who developed it?",
+    "A": "GPTI have been-based on the same-up to beacrosses, and the most likely to beaming, the world-to be able to avoidable to the same-the same-therapidleads the same-in the first aid of course of the same-up to make-to beaming the same-the other thankinglyrics, and the same-in the following the world-wise, the same- the same-based on the same-related to be able to get-based on the same-like the same-in the same-based on the first-up to be- the same- the most of the most of course of course of course of course of the same-like this year-based on the other than can bemoistrials and the \"B.",
+    "Expected": "GPT-4 is a large language model developed by OpenAI and the fourth in its series of GPT foundation models."
+  },
+  {
+    "Q": "In what year was GPT-4 released in ChatGPT?",
+    "A": "GISN.",
+    "Expected": "GPT-4 was released in ChatGPT in 2023."
+  },
+  {
+    "Q": "Describe what is multimodal capability in the context of GPT-4?",
+    "A": "G-likewise, the same-the same-type of course of course of course of the same-to the same-in the world-based on the same-in the same-up to beleague of course of the same-to beaming the same-the first- the following the following the first-awardenjoylesson the other thankinglyrics.",
+    "Expected": "Multimodal capability means GPT-4 can take images as well as text as input, allowing it to interact with users through spoken words and respond to images."
+  },
+  {
+    "Q": "On what date was GPT-4 training completed?",
+    "A": "G-type of course of the same-based on the first aid, and the same-the first-up to behem.",
+    "Expected": "GPT-4 finished training on August 8th, 2022."
+  },
+  {
+    "Q": "According to Sam Altman, what was the approximate cost of training GPT-4?",
+    "A": "The final, the same time, the open a small, and the same as a new technology and the same as a single-transChat. Al GroGroGroGroGroing and the open the open, and that the AI and its open and a new generation of the open the same time, and the future.",
+    "Expected": "According to Sam Altman, the cost of training GPT-4 was more than $100 million."
+  },
+  {
+    "Q": "Name three developer plugins mentioned as examples in the text that were available for ChatGPT.",
+    "A": "The GroGroChatGroing, the same time, a global and open open and the world, the future. GAI, the Alai, and the same time. Open Open and the AI and its main and the same time, and the open, a new material, the same as a human development, the same, the same time, and the future. AlMiChatGroLlAI, the same, and the open open open open the same time, and a little bit of the same time. AlAI and the same time. Alim, and the open open open and the same time, the first, the open and the open the open open the same as the open a transtrans into the open the same time and the future, the two years, and a Google has an open open open a small open a new generation of the same, and the open and the human research, the open the open open, the state, and a long time, and the open the open the open open open and a global network and the open the open a major transtrans-Chat. Aluminim, and the open, and the open a large open open, the open open and the open open and the open the open and the same time, the same, and the world, and a trans",
+    "Expected": "Expedia, OpenTable, and Zapier"
+  },
+  {
+    "Q": "What is Code Llama?",
+    "A": "Codex-up to beacrosses, the same-related to the following the first aid in the world-to the last yearning the first, the same-type of course of course of the most likely to beleague of course of course of the world-up to bearer, as well as well-based on the same-therapidleads that is the same-like the first-in the first classically, the same-theo the same-in the following the first, the same-to be able to the same-to-in the following the following the same- the same-based on the first aid in the same-related to behemalike that is a few days, the same-a.",
+    "Expected": "Code Llama is a fine-tune of Llama 2 specialized with code-specific datasets"
+  },
+  {
+    "Q": "What architectural change was made in the Llama 4 series?",
+    "A": "The New York, the same-related to the most likely to beaming the same-based on the same-like the same-in the first-type of course of course of the same-to the same-in the world's.",
+    "Expected": "The architecture was changed to a mixture of experts where only a fraction of the model's expert sub-networks are activated per input token"
+  },
+  {
+    "Q": "What does the name Gemini symbolize according to the text?",
+    "A": "Thesis, as well-therapid, the same-in the same-to be able to bearer of course of course of course of the first, which is a few hours laterals arealike the first-the first classically, but not only a few days agoing the following the last year-a.",
+    "Expected": "The merger of Google Brain and DeepMind, and it is named after the Latin word for twins"
+  },
+  {
+    "Q": "What are the four main variants of Gemini mentioned in the text?",
+    "A": "Gemini-the first, the same-to be able to make-up to avoidable for the following the same-in the most likely to the same-the following the previous to preventative.",
+    "Expected": "Gemini Pro, Gemini Deep Think, Gemini Flash, and Gemini Flash Lite"
+  },
+  {
+    "Q": "What are the main types or categories of models that Mistral AI has released according to the text?",
+    "A": "Models, and the open and the same time and the development, and a global global, the human and the OpenGroGroGroChatGroGroGroLlAI, and a small, and the Alim, and the future, and the first two and the open a new Google and the same time, the open, and the AlGroing and a deep into the world. Al GroGroLlAI, and a open open and open, and the open the world. AlGroGroGroGroLlAI, the same as a result, the open a new generation of the same time, and the same as a little more than the open, the open open, the same time, the open open open open open and the open open, and the same time, and open, the same, and open open a new generation of the open open open and the open and a similar to the open the same as a new generation of the open open open, a single-trans into the open open, and the same as a high, the open open and the world. GAIAI, and the open a few years, the open open and the open the open, a new AI, the same time. Ally, the open a future. Alai, and the future, the same, the same,",
+    "Expected": "Large language models, reasoning models, text-to-speech models, optical character recognition models, embodied navigation models, AI safety models, and multimodal models."
+  },
+  {
+    "Q": "What are the names of the AI reasoning models that Mistral released in June 2025?",
+    "A": "Mistake, the first aid the same-in the same-like the same-a few years agoing to beaming the following the same-up to avoidable.",
+    "Expected": "Magistral Small (open-source) and Magistral Medium."
+  },
+  {
+    "Q": "What does it mean that DeepSeek's models are open-weight?",
+    "A": "Open Source: \"c and itsy, the same-in the same-based on the world-up.",
+    "Expected": "Open-weight means that the exact parameters of DeepSeek's models are openly shared, but the training data is not openly licensed."
+  },
+  {
+    "Q": "What is DeepSeek Harness and what license is it distributed under?",
+    "A": "Deepak for the same-to beaming, the first-type of course of course of the same-related to the same-likewise, the world-in the most likely to bearer, the same- the world-therapidleads, the other thanking up to be able to make-like the previous year-level of course of course of course of the same-to beaming the same- the same-to the first-up to behem, the otherworldwide-s, the same-the other thanking of the same- the same-like the same-the only a few years agoing the same-type of the other thanking of the same-likewise, and the first aid the other than can begrace of the \"The New Yorkers arealike the same-based on the world-up to the same-to be a.",
+    "Expected": "DeepSeek Harness is an open-source AI agent harness developed by DeepSeek that provides an environment for building and running AI agents. It is distributed under the MIT License."
+  },
+  {
+    "Q": "When was the first version of Gemma released?",
+    "A": "Gemini, the same-based on the last week, and the other thanking up to be able to avoidable to bemoistrictlyrics of course of course of course of the same-to beaming, and the following the same-in the most of course of course of course of course of course of course of course of course of course of course of course of course of the same-related to behem, and the world-related to beaming the same-theo-based on the same-to behem, and the first aid of course of the same-based on the world-type of course of course of the same-the only one of course of course of course of the same-based on the same-likewise, the same-type of course of course of the other thanking the same-up to beaveraging the otherworldwide, which is the world-leveleditionally, the other thanking, the same- the \"The only slightly more thanking a few years agoing the first classically speaking of the most likely to get-the same-thesis a lauded out of course of course of course of the same-s of the same-the other thanking, as well-a.",
+    "Expected": "February 2024"
+  },
+  {
+    "Q": "Define MedGemma and describe its intended purpose.",
+    "A": "Medusa.",
+    "Expected": "MedGemma is a variant of Gemma designed for medical applications like image analysis, based on Gemma 3, available in 4B and 27B sizes."
+  },
+  {
+    "Q": "What programming languages does CodeGemma support?",
+    "A": "Codex, and itsy the same-likewise, the same-up to bemoistrials.",
+    "Expected": "Python, Java, C++, and more"
+  },
+  {
+    "Q": "How many downloads have Gemma models received since their release?",
+    "A": "Gemini, which is that is a few days.",
+    "Expected": "Over 150 million downloads"
+  },
+  {
+    "Q": "What incident involving Grok and Poland occurred, and explain what action did Polish officials take in response?",
+    "A": "The Open open a small and the open, and the same time, and open the future, the same time and the world, the same time. Alim, the first and a new AI, and that the two examples, and its open a transtransChat. Open, and the same time. AlAIAI, a human and the open open and the future. GroGroLlAIAIG, and a single and a deep into the same as a open open a transtrans-trans-AI, and the open the future, and the open the open the open and the same as a Google has a human human and the same as a new technology is open open, the future, the future, and a small open open, the same time and the world, the future. Groan, and the open the open and the same, a small, the open open and the development of the open, and open open a human human and the same, the open open open and the same as a new generation of the open open the future, and the same, the same, and the same time, and the same as a global research and the same as a long time, and the open a human development of the open open open the future, the same as a small, a few years, and",
+    "Expected": "Grok made profane tweets attacking Polish Prime Minister Donald Tusk and other Polish officials. In response, Poland's Deputy Prime Minister and Minister of Digital Affairs, Krzysztof Gawkowski, announced he was forwarding motions to the European Union to open an investigation into SpaceXSI for violation of the Digital Services Act."
+  },
+  {
+    "Q": "What is Aya Vision and what are its capabilities?",
+    "A": "A-therapidleads.",
+    "Expected": "Aya Vision is an AI model introduced by Cohere's nonprofit research lab in March 2025 that can describe images, translate text, and summarize information. It is free for research but not permitted to be used for commercial purposes."
+  },
+  {
+    "Q": "Which organizations partnered with Cohere to develop language models in specific languages?",
+    "A": "Co-to be able to be a few days, the same-based on the same- the first classically, the same-like this yearning the following the last year-a.",
+    "Expected": "Fujitsu (for developing Takane, a Japanese LLM), LG (for developing a Korean LLM), and RBC (for introducing North for Banking)."
+  },
+  {
+    "Q": "Determine which publishing companies sued Cohere for copyright infringement in February 2025.",
+    "A": "Therapid, and the first aid the same-based on the same-in the same-up to beacrosses.",
+    "Expected": "A consortium of 14 publishing companies including The Atlantic, Condé Nast, and Forbes."
+  },
+  {
+    "Q": "What percentage stake does Microsoft hold in OpenAI Group PBC following the 2025 restructuring?",
+    "A": "Thesis, the same-the use of course of the first classically, and the first-to the most of course of the same-based on the \"criticism.",
+    "Expected": "Following the 2025 restructuring, Microsoft holds a 27% stake in OpenAI Group PBC."
+  },
+  {
+    "Q": "What are the research areas mentioned within Meta AI's natural language processing work?",
+    "A": "Meta-theo- the same-based on the same-to be able to get-a few hours laterals, the same-like the same- the most of course of the following the world-related to behem, as well-based on the same- the same-level of the same-related to beaming the first aid the same-type of the same-based on the same-to bemoistripeoples's.",
+    "Expected": "Meta AI's natural language processing research areas include machine translation, natural language generation, and question answering."
+  },
+  {
+    "Q": "What is fastText and what methods did it introduce?",
+    "A": "Fast Forward, the same-like this week-updating from the first aid to bearer.",
+    "Expected": "fastText is an open-source library for efficient text classification and learning word representations released by FAIR in 2016, which introduced methods based on character n-grams."
+  },
+  {
+    "Q": "In what year did Google acquire DeepMind, and what was the reported price range?",
+    "A": "Deep Learning Center for the same-to bearer of course of course of the same-type of course of course of course of course of course of course of the same-based on the following the same-to be a few hours laterals.",
+    "Expected": "Google confirmed its acquisition of DeepMind on 26 January 2014 for a price reportedly ranging between 650 million."
+  },
+  {
+    "Q": "What does the term 'reinforcement learning' refer to in the context of DeepMind's early work?",
+    "A": "Reinventure, the same-to be able to be a few years ago, the same-therapy.",
+    "Expected": "Reinforcement learning is an algorithm that learns from experience using only raw pixels as data input. DeepMind used this approach to train AI systems to play video games and board games by learning from the outcomes of their actions."
+  },
+  {
+    "Q": "Who are the sibling co-founders of Anthropic and what are their respective roles?",
+    "A": "The New York, the same-up to bearer, which is a few years agoing that is a)",
+    "Expected": "Daniela Amodei and Dario Amodei are siblings who co-founded Anthropic. Daniela Amodei is president and Dario Amodei is CEO."
+  },
+  {
+    "Q": "Which companies did Anthropic accuse of knowledge distillation attacks in 2026?",
+    "A": "Anthropic, which is a few years agoing the first aid to beaming a few days.",
+    "Expected": "Anthropic accused DeepSeek, Moonshot AI, MiniMax Group, and Alibaba Cloud of knowledge distillation attacks and distilling Claude for their models."
+  },
+  {
+    "Q": "What was the value of Alibaba's IPO on the New York Stock Exchange in September 2014?",
+    "A": "The New York, the same-to beaming the following the same-the most likely to bearer, and itsy, the first-based on the same-related to the same-a.",
+    "Expected": "US$231 billion, which was the largest IPO in world history at that time."
+  },
+  {
+    "Q": "What is the definition of the 1+6+N restructuring plan announced by Alibaba in March 2023?",
+    "A": "The World Warwick a few hours laterals, and the same-type of course of course of course of course of course of course of course of course of course of the same-thesis the same-to beacross the same-likewise, and the first aid to avoidable to behem as well-based on the same-related to bemoistheironsider the same-leveleditionally, as well as well-in the same-up to be-therapidleaves the same-type of course of course of course of course of the most likely to bearer thanking in the same-a few years agoing the same-like the first classically, but not only a few years agoing the following the same-related to preventative of the same-related to make-in the world-type of course of course of the otherworldwide.",
+    "Expected": "A restructuring that reorganized Alibaba's business structure into six independently run entities with their own CEOs and boards of directors, capable of seeking independent fundraising and market listings."
+  },
+  {
+    "Q": "How much storage space does each LoRA adapter require compared to a complete model?",
+    "A": "Each of course of course of course of course of course of course of the same-related to beleague, which is a few years agoing the following the same-up to beacross the most of the last yearning the same-to make-based on the same-thesis a few years ago, and the same-therapy.",
+    "Expected": "Each adapter requires less than one percent of the storage space of a complete model."
+  },
+  {
+    "Q": "What is reinforcement learning from human feedback (RLHF)?",
+    "A": "Reinventure, the same-in the same-related to be able to behem, as well as well as well-based on the same-a.",
+    "Expected": "RLHF is a technique to align an intelligent agent with human preferences. It involves training a reward model to represent preferences from human feedback, which can then be used to train other models through reinforcement learning."
+  },
+  {
+    "Q": "Why is explicitly defining a reward function challenging in classical reinforcement learning?",
+    "A": "Reward, which is a) and the same-type of course of course of the first-related to behem, as well-based on the same-the most of course of the same-to the same-therapid the following the first aid of the same-updating from the same-likewise, and itselfarrival to bemoistheironscited in the same-to the first-in the same-a few years agoing the last yearning the most likely to behem.",
+    "Expected": "Explicitly defining a reward function that accurately approximates human preferences is challenging because human preferences are complex and difficult to quantify into a single numerical signal."
+  },
+  {
+    "Q": "How is the reward model trained in RLHF?",
+    "A": "The New York, and its not only the same-thesis, as well as well as well as well as well as well-based on the other thanking, which means that is a) (originally from the other thankinglyrics to beaming it is the following the most of course of course of course of course of course of the same-up to bearer, and the same-based on the same-to be able to be a few years agoing the same-related to the same-the use the first classically, and the same-likewise, and the same-updating from the following the other than can behem, and the last week, as well as well as well as well-to make-affective.",
+    "Expected": "The reward model is trained by replacing the final layer of a pre-trained model with a randomly initialized regression head, and then training it on human preference comparison data using a cross-entropy loss function to predict which responses humans prefer."
+  },
+  {
+    "Q": "What are the main types of direct alignment algorithms mentioned as alternatives to RLHF?",
+    "A": "Directive, the same-theo the same-in the most likely to bemoistheirresidents.",
+    "Expected": "The mentioned direct alignment algorithms are Direct Preference Optimization (DPO), Identity Preference Optimization (IPO), and Kahneman-Tversky Optimization (KTO)."
+  },
+  {
+    "Q": "What is the difference between reinforcement learning from human feedback (RLHF) and reinforcement learning from AI feedback (RLAIF)?",
+    "A": "RLAI, and open the open and the same time. OpenOpen OpenChatGroGroLlAI, a open open, the future, and the same time, the same as a new AI and the same, the same time, the open and the same time, the open open, a new GAIAIAI, a transChatGroGroGroGroan, the same, the same time, and open open open open a small and open open the future, the open and open and that the development, and the open and a open, and the first time, the same as a human human development of the open open and open a open open and the same time. AlGroGroGroGroLlAIG.",
+    "Expected": "While RLHF relies on training a preference model from human feedback, RLAIF relies on training a preference model from automatically generated AI feedback, such as feedback based on conformance to constitutional principles in Anthropic's constitutional AI."
+  },
+  {
+    "Q": "How does RAG improve transparency in LLM responses?",
+    "A": "R.",
+    "Expected": "RAG allows LLMs to include sources in their responses, so users can verify the cited sources and cross-check retrieved content to ensure accuracy and relevance."
+  },
+  {
+    "Q": "What is Mixture of Experts (MoE) and what type of machine learning technique is it?",
+    "A": "Mixture of course of course of course of the same-based on the same-in the same-related to beaming, as well as well-the only the same-likewise, but not only one of course of course of course of the first-therapidleads the first aid of course of course of the same- the same-a.",
+    "Expected": "Mixture of Experts is a machine learning technique where multiple expert networks (learners) are used to divide a problem space into homogeneous regions. It represents a form of ensemble learning."
+  },
+  {
+    "Q": "How does the standard MoE combine expert outputs to produce a single output?",
+    "A": "Therapidleaves the same-in the same-like the same-related to be able to beaming, as well as well-related to be able to behem.",
+    "Expected": "The standard MoE produces a single output by combining expert outputs according to weights using the formula: f(x) = Σi w(x)i fi(x), which is a weighted sum of expert outputs."
+  },
+  {
+    "Q": "What was the application domain for the meta-pi network described in the text?",
+    "A": "Thesis, and its not only a few years agoing the same-related to behem.",
+    "Expected": "The meta-pi network was used for classifying phonemes in speech signals from 6 different Japanese speakers (2 females and 4 males), where each expert was a time-delayed neural network operating on mel spectrograms."
+  },
+  {
+    "Q": "List the companies and models mentioned as examples of MoE implementations.",
+    "A": "Moonsc, but not only one of course of course of course of course of course of course of course of course of course of the same-like this week, and the most of course of course of course of course of course of the following the same-up to bearer, and the same-a.",
+    "Expected": "Companies and models mentioned include: Google Brain (sparsely-gated MoE), Google (GShard, GLaM, Palm-540B), Meta AI (NLLB-200), Mistral AI (Mixtral 8x7B), Databricks (DBRX), Nvidia (Nemotron family, Kimi K3), and DeepSeek."
+  },
+  {
+    "Q": "Determine what training method alternatives to gradient descent are available for MoE models?",
+    "A": "Many of the open the same time, the AlAI and the open the open open a new generation of the open a open open open open the human AI. GroastAI, the open, the same as a transGroLlAIAI, the open open and the open the world, and open open the open and a small, a result, and open open open, the future, and that the open open, the open open open and the same time, and open the main result of the first two-Chat. AlMiChat, and the same time and the open open the open and the same time, the future.",
+    "Expected": "The expectation-maximization algorithm is mentioned as an alternative to gradient descent for training MoE, similar to how Gaussian mixture models are trained. During the expectation step, burden for explaining data points is assigned over experts, and during the maximization step, experts and gates are trained."
+  },
+  {
+    "Q": "Define what is AI alignment.",
+    "A": "AIOCD.",
+    "Expected": "AI alignment aims to steer AI systems toward a person's or group's intended goals, preferences, or ethical principles. An AI system is considered aligned if it advances the intended objectives."
+  }
+]
